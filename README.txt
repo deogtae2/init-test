@@ -17,3 +17,4 @@ feature/,my
 feature/new
 fork test
 fork origin update
+fork forked update
